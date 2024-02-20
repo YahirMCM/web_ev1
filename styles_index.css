@@ -1,0 +1,28 @@
+.imgi {
+    width: 250px;
+  }
+
+.encabezado{
+    font-size: 80px;
+    text-align: center;
+}
+.asd{
+    width: 18%;
+    padding-left: 10px;
+    margin-left: 10px;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    color: #29627e;
+}
+
+p {
+    font-family: Arial;
+    font-size: 20px;
+}
+li {
+    font-family: Arial;
+    font-size: 18px;
+}
+.hindex {
+    font-size: 40px;
+}
