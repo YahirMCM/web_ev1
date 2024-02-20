@@ -2,6 +2,10 @@
     width: 250px;
   }
 
+.vodi {
+    width: 500px;
+}
+
 .encabezado{
     font-size: 80px;
     text-align: center;
@@ -24,6 +28,11 @@
     font-style: italic;
 }
 
+.st {
+    font-family: Arial;
+    font-size: 20px;
+}
+
 p {
     font-family: Arial;
     font-size: 20px;
@@ -41,7 +50,7 @@ li {
     overflow: hidden;
   }
   
-  .cabeza a {
+.cabeza a {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -50,13 +59,16 @@ li {
     font-size: 17px;
   }
   
-  .cabeza a:hover {
+.cabeza a:hover {
     background-color: #eed6b1;
     color: black;
   }
   
-  .cabeza a.sombreado {
+.cabeza a.sombreado {
     background-color: #c57c41;
     color: white;
   }
-  
+
+.sp {
+    color: crimson;
+}
